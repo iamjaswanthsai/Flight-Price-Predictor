@@ -1,4 +1,4 @@
-Flight-Price-Predictor
+# Flight-Price-Predictor
 
 Flight price predictor is a tool or service designed to assist travelers in
 estimating and predicting the cost of airfare for their desired flights. It
